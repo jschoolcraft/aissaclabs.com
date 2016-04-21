@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Aissac Labs"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Aissac Labs"
+description              : "A software consultant focusing on iOS and Ruby development"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Jeff Schoolcraft"
+  avatar           : "http://www.gravatar.com/avatar/196b781eef85b7ce609fd12234cc1f39?s=200"
+  bio              : "Code slinger.  Husband.  Dad."
+  location         : "Virginia"
   email            :
   uri              :
   bitbucket        :
@@ -144,6 +144,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Outputting
 permalink: /:categories/:title/
