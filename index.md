@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_image: header.jpeg
   cta_label: Learn More
-  cta_url: /services/
+  cta_url: /services
 ---
 
 # Can I help you?
@@ -31,4 +31,4 @@ I probably want to help, if you:
 
 ## What's Next?
 
-Feel free to [email me](mailto:jschoolcraft@aissaclabs.com) to set up a consultation or check out some of [my work](/portfolio/).
+Feel free to [email me](mailto:jschoolcraft@aissaclabs.com) to set up a consultation or check out some of [my work](/portfolio).

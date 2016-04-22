@@ -11,7 +11,7 @@ title                    : "Aissac Labs"
 title_separator          : "-"
 name                     : "Aissac Labs"
 description              : "A software consultant focusing on iOS and Ruby development"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://aissaclabs.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -28,7 +28,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
+google_site_verification : 64ui_VorCKpvkZwS9QUe45nThamDFY1j563Eo07SmXg
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -154,7 +154,7 @@ collections:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Plugins

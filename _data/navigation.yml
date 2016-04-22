@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Services"
-    url: /services/
+    url: /services
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio
   - title: "How I work"
-    url: /how-i-work/
+    url: /how-i-work
   - title: "Contact"
-    url: /contact/
+    url: /contact
