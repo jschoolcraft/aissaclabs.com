@@ -2,6 +2,7 @@
 layout: single
 title: How I Work
 permalink: /how-i-work
+author_profile: true
 ---
 
 ## Location
